@@ -9,7 +9,7 @@
 - 📧 **邮箱: huanmeng@huanmeng-qwq.com** 
 ---
 
-## 今年汇总 ✨
+## 汇总
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=huanmeng-qwq&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue&locale=cn&private=true&&count_private=true&&include_all_commits=true" />
 <!-- 
