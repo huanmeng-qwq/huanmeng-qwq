@@ -25,7 +25,7 @@
 <p align="center">
     <br />
     <a title="Java" href="https://github.com/huanmeng-qwq?tab=repositories&language=java">
-        <img alt="Java" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/java.gift" />
+        <img alt="Java" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/java.gif" />
     </a>
     &nbsp;
     <a title="C#" href="https://github.com/huanmeng-qwq?tab=repositories&language=c%23">
