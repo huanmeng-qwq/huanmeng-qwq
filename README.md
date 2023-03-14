@@ -9,6 +9,14 @@
 - 📧 **邮箱: huanmeng@huanmeng-qwq.com** 
 ---
 
+## 个人经历
+- [x] **EaseCation** 开发 [2020-2023]
+- [x] **AriaCraft** 高管、开发、运营   [规模(500-1263)在线] [2021-2023] 
+- [x] **YourCraft** 开发 [2020]
+- [x] **HyCraft(虎牙宇宙)** 开发、管理 [2019-2020]
+- [x] **Inf Network** 开发、管理 [2018-2020,2021]
+---
+
 ## 汇总
 
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=huanmeng-qwq&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue&locale=cn&private=true&&count_private=true&&include_all_commits=true" />
