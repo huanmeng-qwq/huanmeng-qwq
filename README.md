@@ -28,10 +28,6 @@
         <img alt="Java" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/java.gif" />
     </a>
     &nbsp;
-    <a title="C#" href="https://github.com/huanmeng-qwq?tab=repositories&language=c%23">
-        <img alt="C Sharp" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/c-sharp-logo-48.svg" />
-    </a>
-    &nbsp;
     <a title="JavaScript" href="https://github.com/huanmeng-qwq?tab=repositories&language=javascript">
         <img alt="Java Script" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/javascript.gif" />
     </a>
