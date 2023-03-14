@@ -20,7 +20,7 @@
 
 ---
 
-<h3 align="center">:books: Tools and languages</h3>
+<h3 align="center">📚 Languages and software</h3>
 
 <p align="center">
     <br />
