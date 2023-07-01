@@ -37,8 +37,8 @@
         <img alt="Java Script" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/javascript.gif" />
     </a>
     &nbsp;
-    <a title="Lua" href="https://github.com/huanmeng-qwq?tab=repositories&language=node">
-       <img alt="Lua" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/nodejs-48.svg" />
+    <a title="Node" href="https://github.com/huanmeng-qwq?tab=repositories&language=node">
+       <img alt="Node.js" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/nodejs-48.svg" />
     </a>
     &nbsp;
     <a title="HTML" href="https://github.com/huanmeng-qwq?tab=repositories&language=html">
