@@ -29,6 +29,10 @@
         <img alt="Java" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/java.gif" />
     </a>
     &nbsp;
+    <a title="Vue3" href="https://vuejs.org/">
+        <img alt="Vue.js" height="28px" width="28px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/Vue.js_Logo_2.svg.png" />
+    </a>
+    &nbsp;
     <a title="JavaScript" href="https://github.com/huanmeng-qwq?tab=repositories&language=javascript">
         <img alt="Java Script" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/javascript.gif" />
     </a>
