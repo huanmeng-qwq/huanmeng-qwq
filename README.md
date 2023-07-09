@@ -8,6 +8,7 @@
 - 🌌 **SQL**数据结构设计
 - 📧 **邮箱: huanmeng@huanmeng-qwq.com**
 - 💌 **QQ: 1871735932**
+- 🖥️ **目前就职** 无，接受定制开发
 
 ---
 
@@ -30,7 +31,7 @@
     </a>
     &nbsp;
     <a title="Vue3" href="https://vuejs.org/">
-        <img alt="Vue.js" height="28px" width="28px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/Vue.js_Logo_2.svg.png" />
+        <img alt="Vue" height="28px" width="28px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/Vue.js_Logo_2.svg.png" />
     </a>
     &nbsp;
     <a title="JavaScript" href="https://github.com/huanmeng-qwq?tab=repositories&language=javascript">
@@ -38,7 +39,7 @@
     </a>
     &nbsp;
     <a title="Node" href="https://github.com/huanmeng-qwq?tab=repositories&language=node">
-       <img alt="Node.js" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/nodejs-48.svg" />
+       <img alt="Node" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/nodejs-48.svg" />
     </a>
     &nbsp;
     <a title="HTML" href="https://github.com/huanmeng-qwq?tab=repositories&language=html">
@@ -53,11 +54,11 @@
     <a title="IDEA" href="https://www.jetbrains.com/idea/">
         <img alt="IDEA" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/intellij-idea-48.svg" />
     </a>
-    <a title="MySQL" href="https://www.mysql.com/">
-        <img alt="MySQL" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/mysql-logo-48.svg" />
-    </a>
     <a title="MongoDB" href="https://www.mongodb.com/">
         <img alt="MongoDB" height="32px" width="60px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/MongoDB_Spring-Green.svg" />
+    </a>
+    <a title="MySQL" href="https://www.mysql.com/">
+        <img alt="MySQL" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/mysql-logo-48.svg" />
     </a>
     <a title="Discord" href="https://discord.com/">
         <img alt="Discord" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/discord-48.png" />
