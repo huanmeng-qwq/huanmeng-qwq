@@ -1,6 +1,6 @@
 ## 这里是幻梦
 
-- 🌃 **Java程序员** | **江苏如皋**
+- 🌃 **Java程序员** | **江苏**
 - 🌄 B站：<a href="https://space.bilibili.com/309509902" target="_blank">**@幻梦ovo**</a>
 - 📼 系统运维
 - 🎮 **Minecraft**服务端开发、运维与管理
@@ -8,11 +8,10 @@
 - 🌌 **SQL**数据结构设计
 - 📧 **邮箱: huanmeng@huanmeng-qwq.com**
 - 💌 **QQ: 1871735932**
-- 🖥️ **目前就职** 无，接受定制开发
 
 ---
 
-## 个人经历
+## 个人经历 (Minecraft)
 
 - [x] **EaseCation** 开发 [2020-2023]
 - [x] **AriaCraft** 高管、开发、运营 [2021-2023]
