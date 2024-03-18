@@ -10,7 +10,7 @@
 - 🍓 **爱发电: [huanmeng](https://afdian.net/a/huanmeng)**
 ---
 
-## 个人经历 (Minecraft)
+## 工作经历 (Minecraft)
 
 - [x] **EaseCation** 开发 [2020-2023]
 - [x] **AriaCraft** 高管、开发、运营 [2021-2023]
