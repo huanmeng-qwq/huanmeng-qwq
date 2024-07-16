@@ -7,7 +7,6 @@
 - 📑 **Java**后端开发与架构设计
 - 🌌 **SQL**数据结构设计
 - 📧 **邮箱: huanmeng@huanmeng-qwq.com**
-- 🍓 **爱发电: [huanmeng](https://afdian.net/a/huanmeng)**
 ---
 
 ## 工作经历 (Minecraft)
