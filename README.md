@@ -12,7 +12,7 @@
 <!-- 编程语言 -->
 <p align="center">
   <a href="https://github.com/huanmeng-qwq?tab=repositories&language=java"><img alt="Java" height="40" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/java.gif"></a>
-  <a href="https://kotlinlang.org/"><img alt="Kotlin" height="40" style="width: auto" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/kotlin.png"></a>
+  <a href="https://github.com/huanmeng-qwq?tab=repositories&language=kotlin"><img alt="Kotlin" height="40" style="width: auto" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/kotlin.png"></a>
 </p>
 
 <!-- 前端技术 -->
