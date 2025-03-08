@@ -1,73 +1,60 @@
-## About Me
+## 🚀 Technical Profile
 
-- 🌃 **Java程序员** | **江苏**
-- 🌄 B站：<a href="https://space.bilibili.com/309509902" target="_blank">**@幻梦ovo**</a>
-- 📼 系统运维
-- 🎮 **Minecraft**服务端开发、运维与管理
-- 📑 **Java**后端开发与架构设计
-- 🌌 **SQL**数据结构设计
-- 📧 **邮箱: huanmeng@huanmeng-qwq.com**
----
-
-## 工作经历 (Minecraft)
-- [x] **MoonCookie** 开发 [2024]
-- [x] **EaseCation** 开发 [2020-2023]
-- [x] **AriaCraft** 高管、开发、运营 [2021-2023]
-- [x] **YourCraft** 开发 [2020]
-- [x] **HyCraft(虎牙宇宙)** 开发、管理 [2019-2020]
-- [x] **Inf Network** 开发、管理 [2018-2020,2021]
+- **Languages**: Kotlin | Java (JVM Ecosystem)  
+- **Specialization**: 🎮 Minecraft Server Architecture | ⚡ High-performance Optimization  
+- **Infrastructure**: 🌐 Distributed Systems | 🛠️ System Operations | 🔄 DevOps  
+- **Contact**: [<img src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/bilibili.png" width="20"> 幻梦ovo](https://space.bilibili.com/309509902) | 📧 huanmeng@huanmeng-qwq.com
 
 ---
 
-<h3 align="center">📚 Languages and software</h3>
+<h3 align="center">📚 Core Tech Stack</h3>
 
+<!-- 编程语言 -->
 <p align="center">
-    <br />
-    <a title="Java" href="https://github.com/huanmeng-qwq?tab=repositories&language=java">
-        <img alt="Java" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/java.gif" />
-    </a>
-    &nbsp;
-    <a title="Vue3" href="https://vuejs.org/">
-        <img alt="Vue" height="28px" width="28px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/Vue.js_Logo_2.svg.png" />
-    </a>
-    &nbsp;
-    <a title="JavaScript" href="https://github.com/huanmeng-qwq?tab=repositories&language=javascript">
-        <img alt="Java Script" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/javascript.gif" />
-    </a>
-    &nbsp;
-    <a title="Node" href="https://github.com/huanmeng-qwq?tab=repositories&language=node">
-       <img alt="Node" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/nodejs-48.svg" />
-    </a>
-    &nbsp;
-    <a title="HTML" href="https://github.com/huanmeng-qwq?tab=repositories&language=html">
-        <img alt="HTML" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/html-5-48.png" />
-    </a>
-    &nbsp;
-    <a title="CSS" href="https://github.com/huanmeng-qwq?tab=repositories&language=css">
-        <img alt="CSS" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/css3-100.svg" />
-    </a>
-</p>
-<p align="center">
-    <a title="IDEA" href="https://www.jetbrains.com/idea/">
-        <img alt="IDEA" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/intellij-idea-48.svg" />
-    </a>
-    <a title="MongoDB" href="https://www.mongodb.com/">
-        <img alt="MongoDB" height="32px" width="60px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/MongoDB_Spring-Green.svg" />
-    </a>
-    <a title="MySQL" href="https://www.mysql.com/">
-        <img alt="MySQL" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/mysql-logo-48.svg" />
-    </a>
-    <a title="Discord" href="https://discord.com/">
-        <img alt="Discord" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/discord-48.png" />
-    </a>
-    <a title="Spring Boot" href="https://spring.io/projects/spring-boot">
-        <img alt="Spring Boot" height="32px" width="32px" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/spring-boot-48.svg" />
-    </a>
+  <a href="https://github.com/huanmeng-qwq?tab=repositories&language=java"><img alt="Java" height="40" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/java.gif"></a>
+  <a href="https://kotlinlang.org/"><img alt="Kotlin" height="40" style="width: auto" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/kotlin.png"></a>
 </p>
 
-## 汇总
+<!-- 前端技术 -->
+<p align="center">
+  <a href="https://vuejs.org/"><img alt="Vue" height="36" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/Vue.js_Logo_2.svg.png"></a>
+  <a href="https://github.com/huanmeng-qwq?tab=repositories&language=javascript"><img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/javascript.gif"></a>
+  <a href="https://nodejs.org/"><img alt="Node.js" height="40" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/nodejs-48.svg"></a>
+</p>
 
- <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanmeng-qwq&hide_title=true&hide_border=true&private=true&&count_private=true&&include_all_commits=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-<!-- 
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=huanmeng-qwq&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=vue&locale=cn&private=true&&count_private=true&&include_all_commits=true" />
--->
+<!-- 后端架构 -->
+<p align="center">
+  <a href="https://spring.io/projects/spring-boot"><img alt="Spring Boot" height="40" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/spring-boot-48.svg"></a>
+  <a href="https://www.mongodb.com/"><img alt="MongoDB" height="40" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/MongoDB_Spring-Green.svg"></a>
+  <a href="https://www.mysql.com/"><img alt="MySQL" height="40" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/mysql-logo-48.svg"></a>
+</p>
+
+<!-- 开发运维 -->
+<p align="center">
+  <a href="https://www.jetbrains.com/idea/"><img alt="IDEA" height="40" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/intellij-idea-48.svg"></a>
+  <a href="https://discord.com/"><img alt="Discord" height="40" src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/discord-48.png"></a>
+</p>
+
+---
+
+## 💻 Work Experience
+
+| Status  | Project           | Role Description                     | Timeline          |
+|---------|-------------------|--------------------------------------|-------------------|
+| 📍 2025 | **YourCraft**     | Java Server Developer                | 2025              |
+| ✅ 2024 | **UnrealCraft**   | Java Engineer (Feature Development)  | 2024              |
+| ✅ 2024 | **MoonCookie**    | Plugin Developer                     | 2024              |
+| ✅ 2023 | **EaseCation**    | Contract Developer (Feature Implementation) | 2020-2023 |
+| ✅ 2023 | **AriaCraft**     | Technical Director                   | 2021-2023         |
+| ✅ 2020 | **YourCraft**     | Mini-game Developer                  | 2020              |
+| ✅ 2020 | **HyCraft**       | Lead Developer                       | 2019-2020         |
+| ✅ 2021 | **Inf Network**   | Junior Developer                     | 2018-2020, 2021   |
+
+
+---
+
+## 📈 Development Analytics
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huanmeng-qwq&layout=compact&hide_title=true&hide_border=true&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn">
+</div>
