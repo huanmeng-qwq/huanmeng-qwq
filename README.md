@@ -41,7 +41,7 @@
 
 | Status  | Project           | Role Description                     | Timeline          |
 |---------|-------------------|--------------------------------------|-------------------|
-| 📍 2025 | **YourCraft**     | Java Server Developer                | 2025              |
+| ✅ 2025 | **YourCraft**     | Java Server Developer                | 2025              |
 | ✅ 2024 | **UnrealCraft**   | Java Engineer (Feature Development)  | 2024              |
 | ✅ 2024 | **MoonCookie**    | Plugin Developer                     | 2024              |
 | ✅ 2023 | **EaseCation**    | Contract Developer (Feature Implementation) | 2020-2023 |
