@@ -2,7 +2,7 @@
 
 - **Languages**: Kotlin | Java (JVM Ecosystem)  
 - **Specialization**: 🎮 Minecraft Server Architecture | ⚡ High-performance Optimization  
-- **Infrastructure**: 🌐 Distributed Systems | 🛠️ System Operations | 🔄 DevOps  
+- **Infrastructure**: 🌐 Distributed Systems | 🔄 DevOps  
 - **Contact**: [<img src="https://raw.githubusercontent.com/huanmeng-qwq/huanmeng-qwq/main/img/bilibili.png" width="20"> 幻梦ovo](https://space.bilibili.com/309509902) | 📧 huanmeng@huanmeng-qwq.com
 
 ---
